@@ -20,9 +20,9 @@ Game platformer 2D pixel art làm bằng **Unity** và **C#**. Điều khiển n
 
 | Phím | Hành động |
 |---|---|
-| A / D hoặc ← / → | Di chuyển |
-| Space | Nhảy |
-| W / S hoặc ↑ / ↓ | Leo thang |
+| A / D | Di chuyển|
+| Space | Nhảy     |
+| W / S | Leo thang|
 
 ## Chạy từ source
 
