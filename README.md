@@ -30,3 +30,5 @@ Game platformer 2D pixel art làm bằng **Unity** và **C#**. Điều khiển n
 2. Mở bằng Unity Hub (đúng phiên bản Unity ở trên)
 3. Mở scene `[Level 1]` và nhấn Play
 
+
+![Gameplay](docs/gameplay.gif)
